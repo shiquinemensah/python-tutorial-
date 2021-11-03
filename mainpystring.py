@@ -10,3 +10,5 @@ print(len(phrase)) #tells you how many characters there are within a string#
 print(phrase[0]) #in python indexes within a string will always start with 0 e.g 0123 what number I choose determines the character chosen
 int (phrase.index('G')) #counts the charcters for you
 print(phrase.replace('hello world', 'bye  plane'))#this allows you to replace the words through the terminal
+
+# next tutorial is working with number and maybe data types 
